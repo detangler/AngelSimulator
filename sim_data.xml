@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<angel>
+	<data_types>
+		<data_type name="Heart Rate"/>
+		<data_type name="Pulse"/>
+	</data_types>
+	<data>
+		<!-- Each 'Measures' tag signifies a set of measures for one time unit -->
+		<Measures>
+			<Measure type="Heart Rate">101</Measure>
+			<Measure type="Pulse">72</Measure>
+		</Measures>
+		<Measures>
+			<Measure type="Heart Rate">104</Measure>
+			<Measure type="Pulse">70</Measure>
+		</Measures>
+		<Measures>
+			<Measure type="Heart Rate">103</Measure>
+			<Measure type="Pulse">68</Measure>
+		</Measures>
+		<Measures>
+			<Measure type="Heart Rate">101</Measure>
+			<Measure type="Pulse">69</Measure>
+		</Measures>
+		<Measures>
+			<Measure type="Heart Rate">100</Measure>
+			<Measure type="Pulse">71</Measure>
+		</Measures>
+		<Measures>
+			<Measure type="Heart Rate">103</Measure>
+			<Measure type="Pulse">73</Measure>
+		</Measures>
+		<Measures>
+			<Measure type="Heart Rate">102</Measure>
+			<Measure type="Pulse">71</Measure>
+		</Measures>
+	</data>
+</angel>
